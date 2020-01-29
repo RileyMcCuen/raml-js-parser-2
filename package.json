@@ -70,7 +70,7 @@
     "url": "https://github.com/raml-org/raml-js-parser-2/issues"
   },
   "devDependencies": {
-    "@types/chai": "^4.2.7",
+    "@types/chai": "^4.2.8",
     "@types/fs-extra": "^8.0.1",
     "@types/invariant": "^2.2.31",
     "@types/marked": "^0.7.2",
